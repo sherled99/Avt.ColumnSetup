@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ebedc515-398e-44bf-9e3c-d124b06686a7",
+    "Name": "NauSchema0a64fec3Detail",
+    "ModifiedOnUtc": "\/Date(1680950786000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Возможности"
+  }
+}

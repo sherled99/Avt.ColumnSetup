@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "46c33f5c-22c9-447f-ae3d-1e3bba49c731",
+    "Name": "BaseGridDetailV2",
+    "ModifiedOnUtc": "\/Date(1680960293000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Базовая схема детали с реестром"
+  }
+}

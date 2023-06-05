@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "d06433bc-f07b-a844-f37f-2e0dbf560082",
+    "Name": "Avt.ColumnSetup",
+    "ModifiedOnUtc": "\/Date(1674992708000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "ebedc515-398e-44bf-9e3c-d124b06686a7"
+= MetaData.Schema.A2 "NauSchema0a64fec3Detail"
+= MetaData.Schema.A5 "ac4f7f0f-d5d5-4e8b-997a-a2f7c46f033e"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "ebedc515-398e-44bf-9e3c-d124b06686a7"
+= MetaData.Schema.B8 "7.18.5.1500"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

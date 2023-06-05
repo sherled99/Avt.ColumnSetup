@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Đính kèm và ghi chú" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Các ghi chú" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Các phê duyệt" />
+		</Items>
+	</Group>
+</Resources>

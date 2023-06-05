@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Файлы и примечания" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="Примечания" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="Визы" />
+		</Items>
+	</Group>
+</Resources>

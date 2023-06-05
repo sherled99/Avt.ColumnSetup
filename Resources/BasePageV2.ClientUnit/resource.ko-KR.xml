@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="첨부 파일 및  메모" />
+			<Item Name="LocalizableStrings.NotesGroupCaption.Value" Value="메모" />
+			<Item Name="LocalizableStrings.TabVisaCaption.Value" Value="승인" />
+		</Items>
+	</Group>
+</Resources>

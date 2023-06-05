@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="AvtLookupPage" />
+			<Item Name="LocalizableStrings.ClearProfileCaption.Value" Value="Restore columns setup" />
+			<Item Name="LocalizableStrings.ColumnsSetupRestoredMessage.Value" Value="Default columns setup restored successfully" />
+			<Item Name="LocalizableStrings.SendingRequestError.Value" Value="Error while sending request" />
+		</Items>
+	</Group>
+</Resources>

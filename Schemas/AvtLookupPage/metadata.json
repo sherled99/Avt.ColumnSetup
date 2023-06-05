@@ -1,0 +1,44 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "728c2469-7b17-42ea-8ca1-01a430f6d633",
+      "A2": "AvtLookupPage",
+      "A5": "49213aea-b2c1-49ba-8553-0632a839aadf",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "4ffb45ef-76bc-d96e-b167-f574739751ee",
+          "A2": "ClearProfileCaption",
+          "A3": "728c2469-7b17-42ea-8ca1-01a430f6d633",
+          "A4": "728c2469-7b17-42ea-8ca1-01a430f6d633",
+          "A5": "49213aea-b2c1-49ba-8553-0632a839aadf"
+        },
+        {
+          "UId": "b79915de-3822-b730-0bb8-5484c2885ea3",
+          "A2": "ColumnsSetupRestoredMessage",
+          "A3": "728c2469-7b17-42ea-8ca1-01a430f6d633",
+          "A4": "728c2469-7b17-42ea-8ca1-01a430f6d633",
+          "A5": "49213aea-b2c1-49ba-8553-0632a839aadf"
+        },
+        {
+          "UId": "5f1f2396-438b-b169-f14f-c204034910b2",
+          "A2": "SendingRequestError",
+          "A3": "728c2469-7b17-42ea-8ca1-01a430f6d633",
+          "A4": "728c2469-7b17-42ea-8ca1-01a430f6d633",
+          "A5": "49213aea-b2c1-49ba-8553-0632a839aadf"
+        }
+      ],
+      "B3": [],
+      "B6": "d06433bc-f07b-a844-f37f-2e0dbf560082",
+      "B8": "8.0.4.1870",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}
